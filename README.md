@@ -1,4 +1,4 @@
-# F5 SuperNetOps系列文章 -- 入门篇
+# F5 SuperNetOps系列文章
 
 《F5 SuperNetOps系列文章》是一个从零开始学习并打造一个完整的CI/CD流水线的系列教程，主要是希望帮助NetOps工程师转向SuperNetOps，更好地帮助公司对DevOps，敏捷开发的转型。
 
