@@ -25,10 +25,10 @@
 
 ![内容MindSet](http://ottodeng.oss-cn-shenzhen.aliyuncs.com/1.png)
 
-**1) 数字化转型**
+**1) 数字化转型**   
 主要讲解如何帮助企业进行数字化转型，相关名次的解释。    
 
-**2) Infrastructure as Code**
+**2) Infrastructure as Code**   
 讲解Imperative（命令式）和Declarative（声明式）这两种方式的特点。   
 
 **3) F5各声明式组件的介绍和使用**    
